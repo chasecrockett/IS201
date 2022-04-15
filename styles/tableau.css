@@ -1,0 +1,43 @@
+.footer{
+    background-color: rgb(127, 66, 16);
+    bottom: 0px;
+    height: 15px;
+    left:5px;
+    right: 5px;
+    font-size: 8px;
+    color: white;
+    text-align: center;
+    position: fixed;}
+
+.mainbody{
+    top: 10px;
+    left: 5px;
+    right: 114px;
+    padding-right: 5px;
+    border-top: solid 1px #555;
+}
+
+.title{
+    color: rgb(127, 66, 16);
+    font-size: xx-large;
+}
+
+.t2{
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.brown{
+    color: rgb(127, 66, 16);
+}
+
+.header{
+    color: white;
+    background-color: rgb(127, 66, 16);
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 40px;
+    z-index: 2;
+}

@@ -1,0 +1,39 @@
+
+.white{
+  color: white;  
+}
+
+.white1{
+    color: white;
+    left: 25px;
+}
+
+.background{
+    background-color: blanchedalmond;
+}
+
+.bold{
+    font-size: large;
+}
+.boldh{
+    font-weight: bold;
+    font-size: x-large;
+    color: darkslategrey;
+    }
+    body{
+        background-color:blanchedalmond;
+        font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    }
+    
+    
+    .footer{
+        background-color: rgb(127, 66, 16);
+        bottom: 0px;
+        height: 15px;
+        left:5px;
+        right: 5px;
+        font-size: 8px;
+        color: white;
+        text-align: center;
+        position: fixed;
+    }
